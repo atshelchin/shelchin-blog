@@ -22,10 +22,10 @@ id = "52fe77a1-0dfb-48af-89f4-eef4310b4732"
 trackerScriptName = "script.js"
 
 [params.giscus]
-repo = "shelchin2023/shelchin-blog"
-repoID = "R_kgDOK0trBA"
+repo = "atshelchin/shelchin-blog"
+repoID = "R_kgDOK34WPw"
 category = "General"
-categoryID = "DIC_kwDOK0trBM4CbcMm"
+categoryID = "DIC_kwDOK34WP84Cbn-U"
 mapping = "title"
 reactionsEnabled = "1"
 inputPosition = "bottom"
@@ -39,7 +39,7 @@ url = "https://twitter.com/atshelchin"
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "Github"
-url = "https://github.com/shelchin2023"
+url = "https://github.com/atshelchin"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
