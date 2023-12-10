@@ -1,6 +1,6 @@
 baseURL = 'https://blog.shelchin.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'I'm Shelchin'
 theme = 'anatole'
 enableRobotsTXT =true
 
