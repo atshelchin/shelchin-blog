@@ -1,6 +1,6 @@
 baseURL = 'https://blog.shelchin.com/'
 languageCode = 'en-us'
-title = 'I'm Shelchin'
+title = 'Shelchin'
 theme = 'anatole'
 enableRobotsTXT =true
 
