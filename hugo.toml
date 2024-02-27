@@ -1,6 +1,6 @@
 baseURL = 'https://blog.shelchin.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Shelchin'
 theme = 'anatole'
 enableRobotsTXT =true
 
@@ -21,15 +21,15 @@ serverURL = "us.umami.is"
 id = "52fe77a1-0dfb-48af-89f4-eef4310b4732"
 trackerScriptName = "script.js"
 
-# [params.giscus]
-# repo = "shelchin2023/shelchin-blog"
-# repoID = "R_kgDOK0trBA"
-# category = "General"
-# categoryID = "DIC_kwDOK0trBM4CbcMm"
-# mapping = "title"
-# reactionsEnabled = "1"
-# inputPosition = "bottom"
-# loading = "lazy"
+[params.giscus]
+repo = "atshelchin/shelchin-blog"
+repoID = "R_kgDOK34WPw"
+category = "General"
+categoryID = "DIC_kwDOK34WP84Cbn-U"
+mapping = "title"
+reactionsEnabled = "1"
+inputPosition = "bottom"
+loading = "lazy"
 
 [[params.socialIcons]]
 icon = "fab fa-twitter"
