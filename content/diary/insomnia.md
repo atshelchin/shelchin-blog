@@ -1,6 +1,6 @@
 +++
 title = "GPT4 teaches you how to treat insomnia"
-date = 2023-12-02T14:21:25+08:00
+date = 2024-2-27T14:21:25+08:00
 draft = false
 +++
 
