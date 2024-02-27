@@ -7,7 +7,7 @@ enableRobotsTXT =true
 [params]
 title = "I'm Shelchin"
 author = "Shelchin"
-description = "Call me Shelchin"
+description = "Be sincere; be brief; be seated."
 profilePicture = "images/profile.jpg"
 contentratio = 0.8
 readMore = true
@@ -62,7 +62,21 @@ url = "mailto:hi@shelchin.com"
   url = "/posts/"
 
   [[menu.main]]
-  name = "About"
+  name = "Diary"
   weight = 300
+  identifier = "diary" 
+  url = "/diary/" 
+
+
+  [[menu.main]]
+  name = "Notes"
+  weight = 400
+  identifier = "notes" 
+  url = "/notes/" 
+
+
+  [[menu.main]]
+  name = "About"
+  weight = 500
   identifier = "about"
   url = "/about/"
