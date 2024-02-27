@@ -1,0 +1,12 @@
+@media screen and (min-width: 961px) {
+  .wrapper__sidebar {
+    width: calc(calc(1 - 0.8) * 100%);
+    padding: 0;
+  }
+}
+
+@media screen and (min-width: 961px) {
+  .wrapper__main {
+    width: calc(0.8 * 100%);
+  }
+}

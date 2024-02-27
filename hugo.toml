@@ -15,6 +15,7 @@ rssFullContent = true
 mainSections = []
 disableComments =false
 postSectionName ="posts"
+customCss = ["css/custom.css", "css/styles.css"]
  
 [params.umami]
 serverURL = "us.umami.is"
